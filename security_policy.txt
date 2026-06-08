@@ -1,0 +1,19 @@
+NovaByte CloudSync - Security Policy
+
+Data Encryption:
+All files stored in NovaByte CloudSync are encrypted at rest using AES-256 encryption. Data in transit is protected using TLS 1.3. Enterprise customers may provide their own encryption keys through our Bring Your Own Key (BYOK) program.
+
+Access Controls:
+Workspace administrators can configure role-based access controls (RBAC) with four default roles: Owner, Admin, Editor, and Viewer. Custom roles can be created on Business and Enterprise plans. All access changes are logged in the audit trail.
+
+Authentication:
+CloudSync supports email/password authentication with mandatory two-factor authentication (2FA) on Business and Enterprise plans. SSO via SAML 2.0 is available on Business and Enterprise plans. OAuth 2.0 is supported for third-party integrations.
+
+Data Residency:
+Customers can choose their primary data region: US-East, US-West, EU-Frankfurt, EU-London, or AP-Singapore. Data does not leave the selected region unless explicitly configured by the workspace administrator. Enterprise customers may request additional regions.
+
+Compliance:
+NovaByte CloudSync is SOC 2 Type II certified and GDPR compliant. HIPAA compliance is available on the Enterprise plan with a signed BAA. We undergo annual third-party security audits and publish the results in our Trust Center.
+
+Incident Response:
+In the event of a security incident, affected customers are notified within 72 hours. NovaByte maintains a dedicated security response team available 24/7. Security vulnerabilities can be reported through our bug bounty program at security@novabyte.example.com.

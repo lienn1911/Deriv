@@ -1,0 +1,11 @@
+NovaByte CloudSync - Product Overview
+
+NovaByte CloudSync is a cloud-based file synchronization and collaboration platform designed for small to mid-size businesses. It allows teams to store, share, and collaborate on documents in real time across desktop, mobile, and web interfaces.
+
+Key features include automatic file versioning, real-time collaborative editing, granular permission controls, and end-to-end encryption for all stored files. CloudSync integrates with popular productivity tools such as Microsoft Office, Google Workspace, and Slack.
+
+The platform supports up to 500 team members per workspace and offers unlimited storage on the Enterprise plan. Files can be up to 10 GB each on all paid plans. The free plan supports up to 5 users with 15 GB of shared storage.
+
+CloudSync was launched in 2022 and is currently used by over 12,000 businesses worldwide. The platform is available in 14 languages and operates data centers in North America, Europe, and Asia-Pacific.
+
+NovaByte is headquartered in Austin, Texas, and was founded in 2020 by a team of former Dropbox and Google engineers.

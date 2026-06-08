@@ -1,0 +1,22 @@
+NovaByte CloudSync - Support Policy
+
+Support Channels:
+- Community Forum: Available to all users. Monitored by NovaByte staff during business hours (9 AM - 6 PM CT, Monday to Friday).
+- Email Support: Available on Starter, Business, and Enterprise plans. Send requests to support@novabyte.example.com.
+- Live Chat: Available on Business and Enterprise plans through the admin console.
+- Phone Support: Available on Enterprise plan only. Dedicated hotline with 24/7 availability.
+
+Response Times:
+- Free Plan: Community forum only, no guaranteed response time.
+- Starter Plan: Email support with 48-hour response time for non-critical issues, 24-hour for critical issues.
+- Business Plan: Email and chat support with 4-hour response time for all issues.
+- Enterprise Plan: All channels with 1-hour response time. Critical issues escalated to engineering within 30 minutes.
+
+Issue Severity Levels:
+- Critical (P1): Service is completely unavailable or data loss has occurred. Target resolution: 4 hours.
+- High (P2): Major feature is broken but workaround exists. Target resolution: 8 hours.
+- Medium (P3): Minor feature issue or performance degradation. Target resolution: 3 business days.
+- Low (P4): General questions, feature requests, or cosmetic issues. Target resolution: 5 business days.
+
+Maintenance Windows:
+Scheduled maintenance occurs on the first Sunday of each month between 2 AM and 6 AM CT. Customers are notified at least 72 hours in advance. Emergency maintenance may occur without notice but is communicated via the status page at status.novabyte.example.com.

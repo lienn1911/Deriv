@@ -1,0 +1,19 @@
+NovaByte CloudSync - Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password." Enter your registered email address and you will receive a password reset link within 5 minutes. The link expires after 24 hours.
+
+Q: Can I share files with people outside my organization?
+A: Yes. You can create shareable links with optional password protection and expiration dates. External sharing is available on all plans. On Business and Enterprise plans, administrators can restrict or disable external sharing.
+
+Q: What happens to my files if I cancel my subscription?
+A: After cancellation, your files remain accessible in read-only mode for 30 days. During this period, you can export your data. After 30 days, all files are permanently deleted. Enterprise customers receive a 90-day retention period.
+
+Q: Is there a file size limit?
+A: The free plan has a 2 GB per-file limit. All paid plans support files up to 10 GB each. If you need to upload files larger than 10 GB, contact our sales team for a custom arrangement.
+
+Q: Does CloudSync work offline?
+A: Yes. The desktop application allows you to mark files and folders for offline access. Changes made offline are automatically synced when you reconnect to the internet. Conflict resolution is handled automatically with the option to review conflicts manually.
+
+Q: How do I migrate from another cloud storage provider?
+A: CloudSync offers a built-in migration tool that supports importing from Google Drive, Dropbox, OneDrive, and Box. The migration tool preserves folder structure and sharing permissions where possible. For large migrations over 1 TB, our support team can assist with a managed migration.

@@ -1,0 +1,37 @@
+NovaByte CloudSync - Pricing Plans
+
+Free Plan:
+- Up to 5 users
+- 15 GB shared storage
+- Basic file sharing and sync
+- Community support only
+- No SLA
+
+Starter Plan ($8/user/month):
+- Up to 25 users
+- 200 GB shared storage
+- File versioning (30-day history)
+- Email support with 48-hour response time
+- 99.5% uptime SLA
+
+Business Plan ($18/user/month):
+- Up to 200 users
+- 2 TB shared storage
+- File versioning (1-year history)
+- Priority email and chat support with 4-hour response time
+- 99.9% uptime SLA
+- Admin console with audit logs
+- SSO integration (SAML 2.0)
+
+Enterprise Plan (custom pricing):
+- Up to 500 users
+- Unlimited storage
+- Unlimited file versioning history
+- Dedicated account manager
+- 24/7 phone and chat support with 1-hour response time
+- 99.99% uptime SLA
+- Advanced security features (DLP, custom encryption keys)
+- On-premises deployment option
+- Custom API rate limits
+
+All paid plans include a 14-day free trial. Annual billing saves 20% compared to monthly billing. Educational and non-profit organizations receive a 30% discount on all paid plans.
