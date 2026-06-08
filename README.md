@@ -78,3 +78,4 @@ Response:
 - **Extractive vs generative**: The current approach returns relevant sentences verbatim. A local LLM (e.g., via Ollama) would produce more natural answers.
 - **Chunking**: Simple paragraph-based splitting. Overlapping chunks or sliding windows would improve context continuity.
 - **Persistence**: The index is in-memory and lost on restart. Adding a vector store (FAISS, ChromaDB) would fix this.
+- **Production readiness**: Add logging for each request (question asked, chunks retrieved, response time). Support .md and .pdf files, not just .txt. Add rate limiting to prevent abuse
